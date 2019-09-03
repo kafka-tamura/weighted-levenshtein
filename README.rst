@@ -13,10 +13,10 @@ About this fork
 This fork will try to implement positional weighting for weighted levenshtein.
 
 Todos:
-[ ] Detail the use case
-[ ] Write test cases
-[ ] Code the implementation
-[ ] Raise PR to infoscout to incorporate in PR
+- Detail the use case
+- Write test cases
+- Code the implementation
+- Raise PR to infoscout to incorporate in original repo
 
 Use Cases
 ---------
