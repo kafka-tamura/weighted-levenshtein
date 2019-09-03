@@ -12,7 +12,8 @@ About this fork
 
 This fork will try to implement positional weighting for weighted levenshtein.
 
-Todos:
+Todos
+
 - Detail the use case
 - Write test cases
 - Code the implementation
